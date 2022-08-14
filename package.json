@@ -1,0 +1,17 @@
+{
+  "name": "berita-terbaru-hari-ini",
+  "theme": "syntax",
+  "version": "0.5.0",
+  "description": "Beritasewu berita viral terbaru hari ini",
+  "keywords": [
+    "Beritasewu",
+    "streaming anime",
+    "berita viral terbaru",
+    "berita terbaru hari ini"
+  ],
+  "repository": "https://github.com/beritasewu/berita-terbaru-hari-ini",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
