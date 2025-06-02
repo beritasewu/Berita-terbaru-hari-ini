@@ -11,3 +11,9 @@ Dapatkan sumber terpercaya lainnya diantaranya :
 <a title="Ozeku" href="https://ozeku.com/"><b>Ozeku</b></a>
 
 <a title="Berita Kpop Terbaru" href="https://beritasewu.com/category/kpop/"><b>Berita Kpop Terbaru</b></a>
+
+https://knetz.org/
+https://kompasaina.com/
+https://punditliga.com/
+https://trenzviral.com/
+https://tempolitik.com/
